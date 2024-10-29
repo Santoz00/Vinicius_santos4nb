@@ -1,0 +1,17 @@
+{
+  "name": "viniciussantos4nb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+"dependencies": {
+  "express": "^4.x.x",
+  "pg": "^8.x.x",
+  "dotenv": "^8.x.x"
+}
